@@ -4,7 +4,7 @@
 
 🤝seja bem-vindo(a) ao meu perfil. Atualmente estou cursando Análise e Desenvolvimento de Sistemas, assim como os cursos da Alura para aperfeiçoamento pessoal e profissional.
 
-💻 Tenho como objetivo me tornar um desenvolvedor Android usando Java/Kotlin.
+💻 Tenho como objetivo me tornar um Cientista de Dados.
 
 //EN
 
@@ -12,7 +12,7 @@
 
 🤝 Welcome to my profile. Currently, I’ve been taking System Analysis and Development classes and Alura’s courses for personal and professional improvement. 
 
-💻 My goal is to become a Android Developer usin Java/Kotlin. 
+💻 My goal is to become a Data Scientist. 
 
 
 <div align="center">
